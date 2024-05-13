@@ -7,7 +7,7 @@ Install-Librewolf-in-Bookworm
 
     cd ~/Downloads/Librewolf
 
-    chmod _x install_librewolf_in_Bookworm.sh
+    sudo chmod _x install_librewolf_in_Bookworm.sh
   
     sudo ./install_librewolf_in_Bookworm.sh
 
