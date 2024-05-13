@@ -14,3 +14,4 @@ Install-Librewolf-in-Bookworm
   sudo rm -r ~/Downloads/Librewolf
 
   cd ~/
+  
