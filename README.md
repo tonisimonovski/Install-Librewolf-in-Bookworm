@@ -3,15 +3,15 @@ Install-Librewolf-in-Bookworm
 
 # Installing in terminal commands:
 
-  git clone https://github.com/tonisimonovski/Install-Librewolf-in-Bookworm ~/Downloads/Librewolf
+    git clone https://github.com/tonisimonovski/Install-Librewolf-in-Bookworm ~/Downloads/Librewolf
 
-  cd ~/Downloads/Librewolf
+    cd ~/Downloads/Librewolf
 
-  chmod _x install_librewolf_in_Bookworm.sh
+    chmod _x install_librewolf_in_Bookworm.sh
   
-  sudo ./install_librewolf_in_Bookworm.sh
+    sudo ./install_librewolf_in_Bookworm.sh
 
-  sudo rm -r ~/Downloads/Librewolf
+    sudo rm -r ~/Downloads/Librewolf
 
-  cd ~/
+    cd ~/
   
